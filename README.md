@@ -1,2 +1,2 @@
 # DengueDiagnosisApp
-See project: http://www.capacitylab.org/
+See more about the project: http://www.capacitylab.org/
